@@ -1,0 +1,34 @@
+{
+    "taskName": "Normalize",
+    "inputName": "Iris",
+    "input": [
+        {
+            "sr_no": "1",
+            "name": "SL",
+            "Data_type": "str",
+            "default_val": "0"
+        },
+        {
+            "sr_no": "2",
+            "name": "SW",
+            "Data_type": "str",
+            "default_val": "0"
+        }
+    ],
+    "executor": "normalize.py",
+    "outputName": "Iris",
+    "output": [
+        {
+            "sr_no": "1",
+            "name": "SL",
+            "Data_type": "str",
+            "default_val": "0"
+        },
+        {
+            "sr_no": "2",
+            "name": "SW",
+            "Data_type": "str",
+            "default_val": "0"
+        }
+    ]
+}

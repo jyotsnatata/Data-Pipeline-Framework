@@ -1,0 +1,14 @@
+{
+    "pipelineName": "Pipeline2",
+    "taskList": [
+        {
+            "TaskId": "1",
+            "Name": "RemoveNan"
+        },
+        {
+            "TaskId": "2",
+            "Name": "Normalize"
+        }
+    ],
+    "totalTask": "2"
+}

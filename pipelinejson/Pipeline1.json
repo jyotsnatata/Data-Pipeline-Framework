@@ -1,0 +1,10 @@
+{
+    "pipelineName": "Pipeline1",
+    "taskList": [
+        {
+            "TaskId": "1",
+            "Name": "RemoveNan"
+        }
+    ],
+    "totalTask": "1"
+}
